@@ -1,5 +1,5 @@
 body {
-    font-family: monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     line-height: 1.6;
     font-size: 18px;
     margin: 0 auto;
@@ -22,7 +22,7 @@ h2 {
     font-size:28px;
 }
 
-h3 {
+monospaceh3 {
     margin-top:2rem;
     font-weight: bold;
     line-height: 24px;
